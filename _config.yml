@@ -39,7 +39,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Samuel M. Factor
-  email: "sfactor@astro.as.utexas.edu"
+  email: "sfactor@utexas.edu"
   facebook: yourname  # eg. daattali
   github: sfxfactor # eg. daattali
   twitter: yourname   # eg. daattali
