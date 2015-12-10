@@ -3,6 +3,7 @@ layout: page
 title: Research
 subtitle: Exoplanets and Planet Formation
 ---
+{% include mathjs %}
 
 I currently work with Adam Kraus applying interferometric analysis techniques to archival data to detect close in companions, binary stars or exoplanets. I am a first year graduate student so this research is preliminary and will likely be my 2nd year project.
 
