@@ -10,10 +10,10 @@ My Master's research, at Wesleyan University with Professor A. Meredith Hughes, 
 
 As an undergraduate, I worked with Professor Fred Ellis on modeling novel optical systems using simple electronics. I focused specifically on systems exhibiting parity time (PT) symmetry. PT-symmetric systems are not symmetric under parity 
 
-$$ (x \rightarrow -x) $$
+\$$ (x \rightarrow -x) $$
 
 or time 
 
-$$ (t \rightarrow -t) $$
+\$$ (t \rightarrow -t) $$
 
 reflection individually but are symmetric under a combined parity and time reflection. A simple example of this is a coupled oscillator system with balanced gain and loss. Under time reversal gain turns into loss and visa versa. Thus a combined parity and time reflection returns the system to its original state. We demonstrated a wide variety of interesting applications of these systems including asymmetric transport and unidirectional lasing. For more information on this work see my three second author papers on my [publications](/publications) page.
