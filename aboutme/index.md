@@ -11,3 +11,8 @@ In High School, at Camp Randall Rowing Club, and in college, at Wesleyan Univers
 
 I also enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took.
 
+The Orion Nebula (Nikon D5200 300mm f/6.2 2sec)
+
+![textpic](../img/DSC_1083.JPG)
+
+I am currently working on a stack of a bunch of short exposures of the Orion Nebula and Omega Cen.
