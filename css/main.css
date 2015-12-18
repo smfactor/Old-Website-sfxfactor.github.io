@@ -76,7 +76,7 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
-img[alt="minpic" {
+img[alt="textpic"] {
     max-width: 250px;
     display: block;
 }
