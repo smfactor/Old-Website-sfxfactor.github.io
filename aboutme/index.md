@@ -8,4 +8,4 @@ In High School, at Camp Randall Rowing Club, and in college, at Wesleyan Univers
 
 I also enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took.
 
-![New England Rowing Championships 2014](img/NERC.jpg)
+![New England Rowing Championships 2014](img/NERC.png)
