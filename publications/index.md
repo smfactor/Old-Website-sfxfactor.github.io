@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications 
-subtitle: Subtitle
+subtitle:
 ---
 
 Here is my [CV](CV.pdf).
