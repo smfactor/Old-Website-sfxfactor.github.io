@@ -2,7 +2,7 @@
 layout: page
 title: Research
 subtitle: Exoplanets and Planet Formation
-bigim:
+bigimg:
   - "/img/big-imgs/heic0917aasc.jpg" : "Credit: NASA/ESO"
   - "/img/big-imgs/heic0917aalg.jpg" : "Credit: NASA/ESO"
   - "/img/big-imgs/heic0917aa.tif" : "Credit: NASA/ESO"

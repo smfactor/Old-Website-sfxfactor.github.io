@@ -2,7 +2,7 @@
 layout: page
 title: "Samuel Factor"
 subtitle: "PhD Student, The University of Texas at Austin"
-bigim:
+bigimg:
   - "/img/big-imgs/heic0917aasc.jpg" : "Credit: NASA/ESO"
   - "/img/big-imgs/heic0917aalg.jpg" : "Credit: NASA/ESO"
   - "/img/big-imgs/heic0917aa.tif" : "Credit: NASA/ESO"
