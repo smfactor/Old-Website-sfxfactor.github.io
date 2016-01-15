@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Outside of School
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+In High School, at Camp Randall Rowing Club, and in college, at Wesleyan University, I rowed competitively. In my Junior and Senior year of college I sat stroke seat of the 2nd Varsity 8+ at the New England Rowing Championships where we finished 3rd both years. Also in my senior year I sat 2 seat of our 1st varsity 8+ at the Head of the Charles Regatta and finished 5th in the Collegiate 8+ event. In high school I traveled to US Rowing Youth National championships 3 years in a row to compete in the light weight 4+ event. My junior year we finished 4th in the nation. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+New England Rowing Championships 2015 JV 8+
+![textpic](../img/NERC.jpg "New England Rowing Championships 2015 JV 8+")
+Head of the Charles 2014 Collegiate 8+
+![textpic](../img/HOCR.png "Head of the Charles 2014 Collegiate 8+")
 
-What else do you need?
+I also enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took.
 
-### my history
+The Orion Nebula from Mauna Kea, HI (Nikon D5200 300mm f/6.2 2sec ISO:25600)
+![textpic](../img/DSC_1083.JPG "The Orion Nebula")
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am currently working on a stack of a bunch of short exposures of the Orion Nebula and Omega Cen.
