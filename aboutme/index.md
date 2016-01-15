@@ -13,7 +13,5 @@ Head of the Charles 2014 Collegiate 8+
 
 I also enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took.
 
-The Orion Nebula from Mauna Kea, HI (Nikon D5200 300mm f/6.2 2sec ISO:25600)
-![textpic](../img/DSC_1083.JPG "The Orion Nebula")
-
-I am currently working on a stack of a bunch of short exposures of the Orion Nebula and Omega Cen.
+The Orion Nebula from Mauna Kea VIS, HI (Nikon D5200 300mm f/6.3 59x2sec ISO:6400)
+![textpic](../img/Stack.jpg "The Orion Nebula")
