@@ -71,9 +71,9 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
-img[alt="textpic"] {
-    max-width: 800px;
-    display: block;
+
+img {
+  max-width: 100%;
 }
 
 .disqus-comments {
