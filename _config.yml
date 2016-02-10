@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Research: "research"
   Publications: "publications"
-  Blog: "posts"
+  #Blog: "blog"
   About Me: "aboutme"
   
 # --- Footer options --- #
