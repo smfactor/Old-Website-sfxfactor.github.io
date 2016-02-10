@@ -73,7 +73,7 @@ google_analytics: "UA-71164810-1"
 # Output options (more information on Jekyll's site)
 timezone: "US/Central"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge 
 permalink: /:year-:month-:day-:title
 paginate: 5
 paginate_path: "/posts/page:num/"
