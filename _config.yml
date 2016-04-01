@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Research: "research"
   Publications: "publications"
-  #Blog: "blog"
+  Blog: "blog"
   About Me: "aboutme"
   
 # --- Footer options --- #
@@ -76,7 +76,7 @@ markdown: kramdown
 highlighter: rouge 
 permalink: /:year-:month-:day-:title
 paginate: 5
-paginate_path: "/posts/page:num/"
+paginate_path: "/blog/posts/page:num/"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
