@@ -1,20 +1,18 @@
 ---
 layout: post
 title: Is there a way to provide a magnetic field for Mars?
-subtitle: reposted from [askanastronomer.org](http://askanastronomer.org).
+subtitle: reposted from askanastronomer.org
 author: Sam Factor
 tags: [planets]
 thumbnail: /img/blog/mars-solar-wind_thumb.jpg
 ---
 
-##Test
+**Reposted from [askanastronomer.org](http://askanastronomer.org).**
 
 <div class="image">
 <img src="/img/blog/mars-solar-wind.jpg" alt="A solar storm hitting Mars and stripping the atmosphere">
 <div class="caption">Artist's rendering of a solar storm hitting Mars and the planet's upper atmosphere. Credit: NASA/GSFC, <a href="http://mars.nasa.gov/news/whatsnew/index.cfm?FuseAction=ShowNews&NewsID=1869">Source</a>.</div>
 </div>
-
-**Reposted from [askanastronomer.org](http://askanastronomer.org).**
 
 **Is there a way to provide a magnetic field for Mars? Would one even be needed to keep an atmosphere on Mars (if an atmosphere could be thickened on Mars somehow)? It would be a shame to build up an Earth-like global warming on Mars to release its carbon dioxide into its atmosphere, only for that atmosphere to be blasted away by the sun. Or would Mars' gravity be able to hold on to it?**
 
