@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Is there a way to provide a magnetic field for Mars?
+subtitle: reposted from [askanastronomer.org](http://askanastronomer.org).
 author: Sam Factor
-tags: planets
+tags: [planets]
 thumbnail: /img/blog/mars-solar-wind_thumb.jpg
 ---
+
+##Test
 
 <div class="image">
 <img src="/img/blog/mars-solar-wind.jpg" alt="A solar storm hitting Mars and stripping the atmosphere">
